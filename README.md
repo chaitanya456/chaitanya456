@@ -1,1 +1,1 @@
-![Chaithanya's LeetCode stats light](https://leetcode-badge-sage.vercel.app/badge/ChaithanyaKrishna1998?bgColor=fff)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ChaithanyaKrishna1998)](https://leetcode.com/ChaithanyaKrishna1998/)
